@@ -1,3 +1,1 @@
-# TypeScript-Dio
-
-- Desafios DIO
+# TypeScript
